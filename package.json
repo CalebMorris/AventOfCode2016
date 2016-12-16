@@ -6,7 +6,8 @@
   "scripts": {
     "day1": "node --harmony ./day-01/solution.js ./day-01/input.txt",
     "day2": "node --harmony ./day-02/solution.js ./day-02/input.txt",
-    "day2-test": "./node_modules/.bin/mocha --compilers js:babel-core/register ./day-02/*test.js"
+    "day2-test": "./node_modules/.bin/mocha --compilers js:babel-core/register ./day-02/*test.js",
+    "day3": "node --harmony ./day-03/solution.js ./day-03/input.txt"
   },
   "author": "Caleb Morris <caleb.morris.g@gmail.com>",
   "license": "MIT",
