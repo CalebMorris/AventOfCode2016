@@ -10,7 +10,8 @@
     "day3": "node --harmony ./day-03/solution.js ./day-03/input.txt",
     "day4": "node --harmony ./day-04/solution.js ./day-04/input.txt",
     "day5": "node --harmony ./day-05/solution.js ./day-05/input.txt",
-    "day6": "node --harmony ./day-06/solution.js ./day-06/input.txt"
+    "day6": "node --harmony ./day-06/solution.js ./day-06/input.txt",
+    "day7": "node --harmony ./day-07/solution.js ./day-07/input.txt"
   },
   "author": "Caleb Morris <caleb.morris.g@gmail.com>",
   "license": "MIT",
